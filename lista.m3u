@@ -644,9 +644,86 @@ http://aioplus.es:80/live/0a5a2b5bd14a75e8f192a51f063bb017/1371972.ts
 #EXTINF:-1 xc_vm-id="1371973" tvg-id="" tvg-name="CO | RCN XTRA" tvg-logo="http://aioplus.es:80/images/K2iGgSk1HeLu3xdCEu-NBOgKJTKSSBO8MZY4qN97z0Bn0FwoNP_1Dg5v3Vyf3ukaNjujnRuUAMCix0sgeY-eLRM-Ld0oDc1rf9Et9zDw5fyHe72vLWtnYscsple0TyCDlPtqx6PSv1a1efF7q_RM1w.png" group-title="⚫ COLOMBIA",CO | RCN XTRA
 http://aioplus.es:80/live/0a5a2b5bd14a75e8f192a51f063bb017/1371973.ts
 
+
 #EXTINF:-1 xc_vm-id="1149048" tvg-name="Ni tú ni yo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NH0cm0HBGUPpzdz8hN2y55U3YO.jpg" group-title="♦️ CINE  MEXICANO",Ni tú ni yo
 http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149048.mp4
 #EXTINF:-1 xc_vm-id="1149049" tvg-name="Si yo fuera diputado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37ANYH2xOKsb6KHwYpVExmXXAXc.jpg" group-title="♦️ CINE  MEXICANO",Si yo fuera diputado
 http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149049.mp4
 #EXTINF:-1 xc_vm-id="1149050" tvg-name="Placa de acero" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/deiJ0Z1Jzu0octbBp07y8Ku7cSx.jpg" group-title="♦️ CINE  MEXICANO",Placa de acero
 http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149050.mp4
+#EXTINF:-1 xc_vm-id="1149051" tvg-name="Los débiles" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzwORgakAmWyM9QwrDvAGLAEjTv.jpg" group-title="♦️ CINE  MEXICANO",Los débiles
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149051.mp4
+#EXTINF:-1 xc_vm-id="1149052" tvg-name="Olimpia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/my9vUV1un8XWyDkjgEpLwNS3iS6.jpg" group-title="♦️ CINE  MEXICANO",Olimpia
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149052.mp4
+#EXTINF:-1 xc_vm-id="1149053" tvg-name="receta original" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqqqkNlibXxXIhbDbEG97H3kZC5.jpg" group-title="✅ CINE  MEXICANO",Mole de olla, receta original" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqqqkNlibXxXIhbDbEG97H3kZC5.jpg" group-title="♦️ CINE  MEXICANO",receta original" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqqqkNlibXxXIhbDbEG97H3kZC5.jpg" group-title="✅ CINE  MEXICANO",Mole de olla, receta original
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149053.mp4
+#EXTINF:-1 xc_vm-id="1149054" tvg-name="Cindy La Regia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxcuX1Rx0wQQDSozriasW3M61vI.jpg" group-title="♦️ CINE  MEXICANO",Cindy La Regia
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149054.mp4
+#EXTINF:-1 xc_vm-id="1149055" tvg-name="México bárbaro 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilkBLFYzOdGHqxO1Og4SQk7c6O9.jpg" group-title="♦️ CINE  MEXICANO",México bárbaro 2
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149055.mp4
+#EXTINF:-1 xc_vm-id="1149056" tvg-name="Casa Caracol" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXqpKxBz3UYwSmx7ycjPxoKHCiJ.jpg" group-title="♦️ CINE  MEXICANO",Casa Caracol
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149056.mp4
+#EXTINF:-1 xc_vm-id="1149057" tvg-name="Nosotros los nobles" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBI1WTduABARAPzOhi8k0Sh2F6b.jpg" group-title="♦️ CINE  MEXICANO",Nosotros los nobles
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149057.mp4
+#EXTINF:-1 xc_vm-id="1149058" tvg-name="Nacho Libre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2Qdz67GQticGM15CdxDFXk1gzg.jpg" group-title="♦️ CINE  MEXICANO",Nacho Libre
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149058.mp4
+#EXTINF:-1 xc_vm-id="1149059" tvg-name="Ahora soy rico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQkHiVMV30xIajFKaSHY4zHaoi9.jpg" group-title="♦️ CINE  MEXICANO",Ahora soy rico
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149059.mp4
+#EXTINF:-1 xc_vm-id="1149060" tvg-name="Todos queremos a alguien" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTzU0OP80TPYiGTZJkyMfVCitOv.jpg" group-title="♦️ CINE  MEXICANO",Todos queremos a alguien
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149060.mp4
+#EXTINF:-1 xc_vm-id="1149061" tvg-name="encuentra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMTTFOHUgMHmaxsvonNyB8JL8mq.jpg" group-title="✅ CINE  MEXICANO",El que busca, encuentra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMTTFOHUgMHmaxsvonNyB8JL8mq.jpg" group-title="♦️ CINE  MEXICANO",encuentra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMTTFOHUgMHmaxsvonNyB8JL8mq.jpg" group-title="✅ CINE  MEXICANO",El que busca, encuentra
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149061.mp4
+#EXTINF:-1 xc_vm-id="1149062" tvg-name="El bolero de Raquel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTnNcQIIkghGyYmNIGMCtgy4BoN.jpg" group-title="♦️ CINE  MEXICANO",El bolero de Raquel
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149062.mp4
+#EXTINF:-1 xc_vm-id="1149063" tvg-name="Don Quijote cabalga de nuevo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMOfdS5xk1mDjue4MRM9wlgIFDK.jpg" group-title="♦️ CINE  MEXICANO",Don Quijote cabalga de nuevo
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149063.mp4
+#EXTINF:-1 xc_vm-id="1149064" tvg-name="Santa Claus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/go1lGUq9KTQPvNvk7AgyaZFASCx.jpg" group-title="♦️ CINE  MEXICANO",Santa Claus
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149064.mp4
+#EXTINF:-1 xc_vm-id="1149065" tvg-name="Motel Acqua" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egJRYBtKdi116QFcfCLADahD8SY.jpg" group-title="♦️ CINE  MEXICANO",Motel Acqua
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149065.mp4
+#EXTINF:-1 xc_vm-id="1149066" tvg-name="El padrecito" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVmRErtcEHvFZGWx5nkVNSux4kO.jpg" group-title="♦️ CINE  MEXICANO",El padrecito
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149066.mp4
+#EXTINF:-1 xc_vm-id="1149067" tvg-name="Ramón" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xaQAc01TZOHEku2uC520OIENWx.jpg" group-title="✅ CINE  MEXICANO",Buenos días, Ramón" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xaQAc01TZOHEku2uC520OIENWx.jpg" group-title="♦️ CINE  MEXICANO",Ramón" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xaQAc01TZOHEku2uC520OIENWx.jpg" group-title="✅ CINE  MEXICANO",Buenos días, Ramón
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149067.mp4
+#EXTINF:-1 xc_vm-id="1149068" tvg-name="Gloria (2014) (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yVRLamL1TixPSrWAJQ51AI6PZr.jpg" group-title="♦️ CINE  MEXICANO",Gloria (2014) (2014)
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149068.mp4
+#EXTINF:-1 xc_vm-id="1149069" tvg-name="mi amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBj6rZE23fX25P3enoEJT03LPFS.jpg" group-title="✅ CINE  MEXICANO",Patsy, mi amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBj6rZE23fX25P3enoEJT03LPFS.jpg" group-title="♦️ CINE  MEXICANO",mi amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBj6rZE23fX25P3enoEJT03LPFS.jpg" group-title="✅ CINE  MEXICANO",Patsy, mi amor
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149069.mp4
+#EXTINF:-1 xc_vm-id="1149070" tvg-name="Bayoneta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZafHTlESLFAClWxIPucStKreNI.jpg" group-title="♦️ CINE  MEXICANO",Bayoneta
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149070.mp4
+#EXTINF:-1 xc_vm-id="1149071" tvg-name="Pastorela" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0ASnDpv9yrQV9L9iu01zx1jSwk.jpg" group-title="♦️ CINE  MEXICANO",Pastorela
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149071.mp4
+#EXTINF:-1 xc_vm-id="1149072" tvg-name="La isla de los monstruos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b32oJ5btwbIcYQrpcHHg7WFR4QL.jpg" group-title="♦️ CINE  MEXICANO",La isla de los monstruos
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149072.mp4
+#EXTINF:-1 xc_vm-id="1149073" tvg-name="Ultrainocencia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysIZtOYntf9PZFaucHQM42eOCBB.jpg" group-title="♦️ CINE  MEXICANO",Ultrainocencia
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149073.mp4
+#EXTINF:-1 xc_vm-id="1149074" tvg-name="60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysIZtOYntf9PZFaucHQM42eOCBB.jpg" group-title="♦️ CINE  MEXICANO",60
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149074.mp4
+#EXTINF:-1 xc_vm-id="1149075" tvg-name="Mamá se fue de viaje" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYpkG67ezBwMNCQdEntlQpYW4W5.jpg" group-title="♦️ CINE  MEXICANO",Mamá se fue de viaje
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149075.mp4
+#EXTINF:-1 xc_vm-id="1149076" tvg-name="Guadalupe Reyes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTzUT341y6ZxN8Ftu76WJ0R4iGY.jpg" group-title="♦️ CINE  MEXICANO",Guadalupe Reyes
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149076.mp4
+#EXTINF:-1 xc_vm-id="1149077" tvg-name="No se aceptan devoluciones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5h4UApKNe62K8hoUCc151kQ56Uc.jpg" group-title="♦️ CINE  MEXICANO",No se aceptan devoluciones
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149077.mp4
+#EXTINF:-1 xc_vm-id="1149078" tvg-name="Ladies Night" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19ceApVKSEdMXWhHPwdfqSm2jQg.jpg" group-title="♦️ CINE  MEXICANO",Ladies Night
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149078.mp4
+#EXTINF:-1 xc_vm-id="1149079" tvg-name="Restos de viento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7oDIN5E3sCyWDxFsLxyYQK7HgK.jpg" group-title="♦️ CINE  MEXICANO",Restos de viento
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149079.mp4
+#EXTINF:-1 xc_vm-id="1149080" tvg-name="Voces inocentes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4n17GclsQnAMr8zGDFc22ZlGocU.jpg" group-title="♦️ CINE  MEXICANO",Voces inocentes
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149080.mp4
+#EXTINF:-1 xc_vm-id="1149081" tvg-name="Loca por el trabajo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPS4ju4Po7n7RIpR4yRMSw3k8oG.jpg" group-title="♦️ CINE  MEXICANO",Loca por el trabajo
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149081.mp4
+#EXTINF:-1 xc_vm-id="1149082" tvg-name="Cómo Filmar Una XXX" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXwqXSWgy3MyeEorT193bUzsK7p.jpg" group-title="♦️ CINE  MEXICANO",Cómo Filmar Una XXX
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149082.mp4
+#EXTINF:-1 xc_vm-id="1149083" tvg-name="Chicuarotes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qCDtYCeBF7PwV42NDw2VrtNgA0.jpg" group-title="♦️ CINE  MEXICANO",Chicuarotes
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149083.mp4
+#EXTINF:-1 xc_vm-id="1149084" tvg-name="Selección Canina" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVVxsu65dcpyWqjISrT0ZU4qH5p.jpg" group-title="♦️ CINE  MEXICANO",Selección Canina
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149084.mp4
+#EXTINF:-1 xc_vm-id="1149085" tvg-name="Si yo fuera tú" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4vCOdWyC3lSEN3B5SKczsFBSCo.jpg" group-title="♦️ CINE  MEXICANO",Si yo fuera tú
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149085.mp4
+#EXTINF:-1 xc_vm-id="1149086" tvg-name="De las muertas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qZkz1e8VJlbeez9L3fbR4wfx9X.jpg" group-title="♦️ CINE  MEXICANO",De las muertas
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149086.mp4
+#EXTINF:-1 xc_vm-id="1149087" tvg-name="Doblemente embarazada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcTppRqJBs6gUFgg010tZGQLxyr.jpg" group-title="♦️ CINE  MEXICANO",Doblemente embarazada
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149087.mp4
+#EXTINF:-1 xc_vm-id="1149088" tvg-name="Oscura Seduccion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/siRGgp01iwcQAyUrkZD4wOIDquy.jpg" group-title="♦️ CINE  MEXICANO",Oscura Seduccion
+http://aioplus.es:80/movie/0a5a2b5bd14a75e8f192a51f063bb017/1149088.mp4
